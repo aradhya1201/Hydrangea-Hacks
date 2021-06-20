@@ -17,7 +17,10 @@ There are two models
     It is a image classifier model that can classify whether a atient have pneumonia or not using X-ray.
 
 Demo 
+X-ray having Pneumonia and model detected Pneumonia with high accuracy
 ![alt text](https://github.com/aradhya1201/Hydrangea-Hacks/blob/main/Detecting%20Pneumonia%20from%20X-ray%20Images/Demo/Screenshot%202021-06-20%20at%204.53.34%20PM.png)
+![alt text](https://github.com/aradhya1201/Hydrangea-Hacks/blob/main/Detecting%20Pneumonia%20from%20X-ray%20Images/Demo/Screenshot%202021-06-20%20at%204.54.21%20PM.png)
+
+X-ray is normala and model detected it as normal with high accuracy
 ![alt text](https://github.com/aradhya1201/Hydrangea-Hacks/blob/main/Detecting%20Pneumonia%20from%20X-ray%20Images/Demo/Screenshot%202021-06-20%20at%204.53.54%20PM.png)
 ![alt text](https://github.com/aradhya1201/Hydrangea-Hacks/blob/main/Detecting%20Pneumonia%20from%20X-ray%20Images/Demo/Screenshot%202021-06-20%20at%204.54.08%20PM.png)
-![alt text](https://github.com/aradhya1201/Hydrangea-Hacks/blob/main/Detecting%20Pneumonia%20from%20X-ray%20Images/Demo/Screenshot%202021-06-20%20at%204.54.21%20PM.png)
